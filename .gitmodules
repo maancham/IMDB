@@ -1,3 +1,6 @@
 [submodule "Imdb-Data-Projects"]
 	path = Imdb-Data-Projects
 	url = https://github.com/maancham/Imdb-Data-Projects
+[submodule "IMDB-Crawler"]
+	path = IMDB-Crawler
+	url = https://github.com/maancham/IMDB-Crawler
